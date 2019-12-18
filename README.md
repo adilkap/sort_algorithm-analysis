@@ -1,5 +1,5 @@
 # sort_algorithm-analysis
-A beginner project that uses python to rank the following sorting algorithms based on their efficiency and speed
+A side project that uses python to rank the following sorting algorithms based on their efficiency and speed
  - Bubble Sort
  - Comb Sort
  - Counting Sort
